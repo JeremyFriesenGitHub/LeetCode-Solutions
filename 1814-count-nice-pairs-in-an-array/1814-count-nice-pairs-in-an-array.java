@@ -33,8 +33,7 @@ class Solution {
         //for each value in  map
         for (int value: map.values()) {
            
-           //dont understand this line: 
-            //formula for count? 
+           
             count += ((long)value * (value - 1) / 2); 
         }
 
