@@ -17,10 +17,10 @@ class Solution {
 
         int newSum = money - min1 -min2;
         if (newSum >=0){
-            System.gc();
+            // System.gc();
             return newSum;
         }
-        System.gc();
+        // System.gc();
         return money;
     }
 }
