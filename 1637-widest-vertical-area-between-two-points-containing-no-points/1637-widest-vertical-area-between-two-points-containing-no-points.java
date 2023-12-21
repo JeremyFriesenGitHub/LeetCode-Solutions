@@ -6,7 +6,7 @@ class Solution {
         int maxDistance=-1;
         int[] xCoordinates = new int[numRows];
 
-        //put xCoordinates into 1D array
+        //put xCoordinates into 1D array 
         for (int i = 0; i < numRows; i++) {
             xCoordinates[i] = points[i][0];
         }
