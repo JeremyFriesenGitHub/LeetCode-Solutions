@@ -3,6 +3,7 @@ class Solution {
         if (word1.length()!=word2.length()){
             return false;
         }
+        //chars
         char[] chars1 = word1.toCharArray();
 
         Arrays.sort(chars1);
