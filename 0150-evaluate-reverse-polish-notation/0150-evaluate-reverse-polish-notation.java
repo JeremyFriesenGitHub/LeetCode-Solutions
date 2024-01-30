@@ -39,7 +39,7 @@ class Solution {
                 }
             }
         }
-        //return most recent result
+        //return most recent results
         return stack.peek();   
     }
 }
