@@ -9,13 +9,13 @@ class Solution:
             for i in range(length2):
                 if nums2[i] in nums1 and nums2[i] not in result:
                     result.append(nums2[i])
-            return result
+           
         else:
             for i in range(length1):
                 if nums1[i] in nums2 and nums1[i] not in result:
                     result.append(nums1[i])
 
-            return result
+        return result
 
      
                     
