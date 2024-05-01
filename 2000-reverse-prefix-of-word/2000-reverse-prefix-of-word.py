@@ -1,6 +1,5 @@
 class Solution:
     def reversePrefix(self, word: str, ch: str) -> str:
-        
         count=0
         for char in word:
             if char == ch:
