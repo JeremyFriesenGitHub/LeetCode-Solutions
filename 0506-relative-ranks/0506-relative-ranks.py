@@ -1,5 +1,6 @@
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:
+        
         reverse_score = sorted(score, reverse = True)
         output_medals = []
 
@@ -14,6 +15,7 @@ class Solution:
                         output_medals.append("Bronze Medal")
                     else:
                         output_medals.append(str(j+1))
+        
         return output_medals
 
         
