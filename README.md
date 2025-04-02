@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JeremyFriesenGitHub/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/JeremyFriesenGitHub/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JeremyFriesenGitHub/LeetCode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
